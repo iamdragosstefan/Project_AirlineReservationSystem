@@ -1,0 +1,45 @@
+SIGNUP 1 dragos@yahoo.com Dragos root1234 root1234
+SIGNUP 2 radu@yahoo.com Radu root1234 root1234
+SIGNUP 3 cami@yahoo.com Cami root1234 root1234
+SIGNUP 4 cami@yahoo.com Gigi root1234 root1234
+PERSIST_USERS
+SIGNUP 1 dragos@yahoo.com Dragos root1234 root1234
+LOGIN gigi@yahoo.com root1234
+LOGIN dragos@yahoo.com root1234ww
+LOGIN dragos@yahoo.com root1234
+LOGIN radu@yahoo.com root1234
+LOGOUT radu@yahoo.com
+LOGOUT dragos@yahoo.com
+LOGIN radu@yahoo.com root1234
+LOGIN cami@yahoo.com root1234
+LOGOUT radu@yahoo.com root1234
+LOGIN dragos@yahoo.com root1234
+ADD_FLIGHT_DETAILS 1 Bucuresti Viena 23-11-2022 140
+ADD_FLIGHT_DETAILS 1 Bucuresti Viena 23-11-2022 140
+ADD_FLIGHT_DETAILS 2 Bucuresti Paris 03-12-2022 100
+ADD_FLIGHT_DETAILS 3 Bucuresti Barcelona 30-11-2022 120
+ADD_FLIGHT_DETAILS 3 Bucuresti Barcelona 30-11-2022 120
+ADD_FLIGHT_DETAILS 4 Bucuresti Cluj 21-11-2022 60
+PERSIST_FLIGHTS
+DELETE_FLIGHT 4 Bucuresti Cluj 21-11-2022 60
+DISPLAY_FLIGHTS
+ADD_FLIGHT 5 Bucuresti Viena 23-11-2022 140
+ADD_FLIGHT 1 Bucuresti Viena 23-11-2022 140
+ADD_FLIGHT 2 Bucuresti Paris 03-12-2022 100
+ADD_FLIGHT 1 Bucuresti Viena 23-11-2022 140
+CANCEL_FLIGHT 1 Bucuresti Viena 23-11-2022 140
+CANCEL_FLIGHT 1 Bucuresti Viena 23-11-2022 140
+CANCEL_FLIGHT 5 Bucuresti Viena 23-11-2022 140
+CANCEL_FLIGHT 2 Bucuresti Paris 03-12-2022 100
+DISPLAY_MY_FLIGHTS
+ADD_FLIGHT 1 Bucuresti Viena 23-11-2022 140
+DISPLAY_MY_FLIGHTS
+LOGOUT dragos@yahoo.com
+LOGIN cami@yahoo.com root1234
+DISPLAY_MY_FLIGHTS
+ADD_FLIGHT 3 Bucuresti Barcelona 30-11-2022 120
+DISPLAY_MY_FLIGHTS
+LOGOUT cami@yahoo.com
+ADD_FLIGHT 3 Bucuresti Barcelona 30-11-2022 120
+DISPLAY_MY_FLIGHTS
+DELETE

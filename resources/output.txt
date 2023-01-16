@@ -1,0 +1,56 @@
+User with email: dragos@yahoo.com was successfully added!
+User with email: radu@yahoo.com was successfully added!
+User with email: cami@yahoo.com was successfully added!
+User already exists!
+The users was successfully saved in the database at 2023-01-16T11:52:38.407773500
+User already exists!
+Cannot find user with email: gigi@yahoo.com
+Incorrect password!
+User with email dragos@yahoo.com is the current user started from 2023-01-16T11:52:38.407773500
+Another user is already connected!
+The user with email radu@yahoo.com was not connected!
+User with email dragos@yahoo.com successfully disconnected at 2023-01-16T11:52:38.407773500
+User with email radu@yahoo.com is the current user started from 2023-01-16T11:52:38.407773500
+Another user is already connected!
+User with email radu@yahoo.com successfully disconnected at 2023-01-16T11:52:38.407773500
+User with email dragos@yahoo.com is the current user started from 2023-01-16T11:52:38.407773500
+Flight from Bucuresti, to Viena, date 2022-11-23, duration 140min, successfully added!
+Cannot add flight! There is already a flight with id 1
+Flight from Bucuresti, to Paris, date 2022-12-03, duration 100min, successfully added!
+Flight from Bucuresti, to Barcelona, date 2022-11-30, duration 120min, successfully added!
+Cannot add flight! There is already a flight with id 3
+Flight from Bucuresti, to Cluj, date 2022-11-21, duration 60min, successfully added!
+The flights was successfully saved in the database at 2023-01-16T11:52:38.439003200
+Flight with id 4 successfully deleted
+The user with email dragos@yahoo.com was notified that the flight with id 4 canceled!
+The user with email radu@yahoo.com was notified that the flight with id 4 canceled!
+The user with email cami@yahoo.com was notified that the flight with id 4 canceled!
+Flight from Bucuresti, to Viena, date 2022-11-23, duration 140min.
+Flight from Bucuresti, to Paris, date 2022-12-03, duration 100min.
+Flight from Bucuresti, to Barcelona, date 2022-11-30, duration 120min.
+The flight with id 5 does not exist!
+The flight with id 1 was successfully added for user with email dragos@yahoo.com !
+The flight with id 2 was successfully added for user with email dragos@yahoo.com !
+The user with email dragos@yahoo.com already have a ticket for flight with id 1 !
+The user with email dragos@yahoo.com has successfully canceled his ticket for flight with id 1 !
+The user with email dragos@yahoo.com has successfully canceled his ticket for flight with id 1 !
+The flight with id 5 does not exist!
+The user with email dragos@yahoo.com has successfully canceled his ticket for flight with id 2 !
+Flight from Bucuresti, to Viena, date 2022-11-23, duration 140min.
+Flight from Bucuresti, to Paris, date 2022-12-03, duration 100min.
+Flight from Bucuresti, to Barcelona, date 2022-11-30, duration 120min.
+The user with email dragos@yahoo.com already have a ticket for flight with id 1 !
+Flight from Bucuresti, to Viena, date 2022-11-23, duration 140min.
+Flight from Bucuresti, to Paris, date 2022-12-03, duration 100min.
+Flight from Bucuresti, to Barcelona, date 2022-11-30, duration 120min.
+User with email dragos@yahoo.com successfully disconnected at 2023-01-16T11:52:38.439003200
+User with email cami@yahoo.com is the current user started from 2023-01-16T11:52:38.439003200
+The user with email cami@yahoo.com has no flight booked!
+The flight with id 3 was successfully added for user with email cami@yahoo.com !
+Flight from Bucuresti, to Viena, date 2022-11-23, duration 140min.
+Flight from Bucuresti, to Paris, date 2022-12-03, duration 100min.
+Flight from Bucuresti, to Barcelona, date 2022-11-30, duration 120min.
+User with email cami@yahoo.com successfully disconnected at 2023-01-16T11:52:38.439003200
+There is no connected user!
+There is no connected user!
+This command is not implemented!
